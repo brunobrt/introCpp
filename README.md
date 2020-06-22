@@ -1,2 +1,2 @@
 # introCpp
-My studies of cpp based on "Programming: Principles and Practice using C++"
+My studies of C++ based on "Programming: Principles and Practice using C++"
