@@ -1,5 +1,10 @@
 #include "D:/Codigos_Estudo/c++/Cpp_Intro_Studies/std_lib_facilities.h" 
 
+void error(string s1, string s2)
+{
+    throw runtime_error(s1+s2);
+}
+
 int main()
 try {
     // our program
