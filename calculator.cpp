@@ -43,13 +43,13 @@
 #include "std_lib_facilities.h" 
 
 // Constants
-const char number = '8';     // t.kind == number means that t is a number Token
-const char quit = 'q';       // t.kind == quit means that t is a quit Token
-const char print = ';';      // t.kind == print means that t is a print Token
-const string prompt = "> ";  // used to prompt a new expression
-const string result = "= ";  // used to indicate that what follows is a result
-const char name = 'a';       // name token
-const char let = 'L';        // declaration token
+const char number = '8';      // t.kind == number means that t is a number Token
+const char quit = 'q';        // t.kind == quit means that t is a quit Token
+const char print = ';';       // t.kind == print means that t is a print Token
+const string prompt = "> ";   // used to prompt a new expression
+const string result = "= ";   // used to indicate that what follows is a result
+const char name = 'a';        // name token
+const char let = 'L';         // declaration token
 const string declkey = "let"; // declaration keyword
 
 // Classes
